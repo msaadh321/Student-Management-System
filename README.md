@@ -32,5 +32,4 @@ Through this project, I strengthened my understanding of:
 
 ---
  
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
+   
